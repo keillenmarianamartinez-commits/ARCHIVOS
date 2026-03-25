@@ -1,0 +1,44 @@
+body{
+background-color:#f8e8ee; /* rosado pastel */
+margin:40px;
+font-family:Arial;
+}
+
+h1{
+color:#5a4e7c;
+background-color:#cdb4db; /* lila pastel */
+padding:15px;
+font-size:40px;
+border-radius:10px;
+}
+
+h2{
+color:#5a4e7c;
+margin-top:30px;
+font-size:26px;
+}
+
+p{
+font-size:18px;
+color:#6d6875;
+}
+
+ul{
+background-color:#bde0fe; /* azul pastel */
+padding:15px;
+border-radius:10px;
+}
+
+li{
+margin:8px;
+}
+
+img{
+margin-top:10px;
+width:300px;
+}
+
+a{
+color:#ff8fab; /* rosado pastel fuerte */
+font-size:18px;
+}
